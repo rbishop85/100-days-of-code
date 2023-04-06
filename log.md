@@ -19,3 +19,14 @@
 
 **Link(s) to work:**
 1. N/A
+
+---
+
+### Day 3: April 5, Wednesday
+
+**Today's Progress**: Worked through first 8 sections of React Native Tutorial video on Youtube
+
+**Thoughts** The general "rules" for the challenge say not to do tutorials but given my limited time restraints I figured taking the time to learn what I need to know to progress in my coding project was equally important.
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

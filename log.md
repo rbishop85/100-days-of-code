@@ -30,3 +30,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 4: April 6, Thursday
+
+**Today's Progress**: Worked through sections 9 and 10 of React Native Tutorial video on Youtube
+
+**Thoughts** Had some issues getting the virtual app to load right for the tutorial.  So I spent a bit fighting that, then once it got working I continued and got through the 2 sections.
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

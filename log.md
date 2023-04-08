@@ -41,3 +41,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 5: April 7, Friday
+
+**Today's Progress**: Worked through sections 11 - 20 of React Native Tutorial video on Youtube
+
+**Thoughts** Mostly makes sense, looking forward to putting it into practice on my app.
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

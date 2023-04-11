@@ -74,3 +74,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 8: April 10, Monday
+
+**Today's Progress**: Worked through sections 28 - 33.
+
+**Thoughts** 
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

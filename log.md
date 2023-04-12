@@ -85,3 +85,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 9: April 11, Tuesday
+
+**Today's Progress**: Shorter day as work was 5.5hrs longer than usual.  Worked through sections 34 and 35.
+
+**Thoughts** Halfway point!  Can't wait to put this to use on the app.
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

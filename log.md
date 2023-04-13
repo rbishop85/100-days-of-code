@@ -96,3 +96,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 10: April 12, Wednesday
+
+**Today's Progress**: Completed sections 36-42.
+
+**Thoughts** Spent some time troubleshooting why I could display my test apps on my local android simulator, but not on my actual phone.  Turns out details are important, as my phone had switched default wireless networks so of course couldn't see the project on my computer...
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

@@ -107,3 +107,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 11: April 13, Thursday
+
+**Today's Progress**: Completed sections 43-51.
+
+**Thoughts** Almost there, just over 3 hours remaining.
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)

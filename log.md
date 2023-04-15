@@ -118,3 +118,14 @@
 
 **Link(s) to work:**
 1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
+
+---
+
+### Day 12: April 14, Friday
+
+**Today's Progress**: Worked through sections 52-70 and finished the Tutorial.
+
+**Thoughts** It all seems to make a fair amount of sense.  What the tutorial didn't cover was how to deal with local storage of data.  This will be my next challenge before I can really start writing my app.
+
+**Link(s) to work:**
+1. [React Native Tutorial | Full Course (Youtube)](https://www.youtube.com/watch?v=YF9NCCOy7P0)
